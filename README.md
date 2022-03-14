@@ -1,0 +1,1 @@
+A simple script to pick and chose from available aws profiles to use in the aws cli.
